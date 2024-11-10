@@ -1,0 +1,10 @@
+title: Maximum of Three Numbers
+Create three variables a, b, and c, each with different integer values. Write code to find and print the maximum of these three numbers using conditional statements.
+---
+
+title: Leap Year Checker
+Define a variable year and assign it a four-digit integer value. Write code to check if this year is a leap year. A year is a leap year if it is divisible by 4 but not by 100, or if it is divisible by 400.
+---
+
+title: Divisibility Test
+Define a variable num with an integer value. Check if num is divisible by both 3 and 5. If it is, print "Divisible by both", if only by 3, print "Divisible by 3", if only by 5, print "Divisible by 5", and if neither, print "Not divisible by 3 or 5".
