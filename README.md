@@ -10,5 +10,5 @@ That script takes the each title and generate a python file where title is the n
 ![image](https://github.com/user-attachments/assets/50e5db94-1f01-4e8c-96ca-e0123e0e64c8)
 
 # Author
-Name: Hernán Araya
+Name: Hernán Araya  
 Email: hernan.araya96@outlook.com
